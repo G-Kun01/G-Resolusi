@@ -3,5 +3,7 @@ RENCANA BELAJAR GILANG:
   * Tailwind
 - JS Framework
   * Node.js
+* Vue
 - PHP
   * Laravel
+- Python

@@ -1,7 +1,8 @@
 RENCANA BELAJAR GILANG:
 - JS Framework
   * Node.js
-  * Angular
-  * Reakt
+  * Vue
+  * Reakt 
 - PHP
   * Laravel
+- Python

@@ -1,7 +1,7 @@
 RENCANA BELAJAR GILANG:
-- CSS Framework
-  * Tailwind
 - JS Framework
   * Node.js
+  * Angular
+  * Reakt
 - PHP
   * Laravel
